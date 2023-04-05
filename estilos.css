@@ -11,13 +11,17 @@
     top: -85px;
 }
 
-.menu-opcoes li{
-    display: inline-block;
-    margin-left: 20px;
+.menu-opcoes{
     position: relative;
     left: 50%;
-
+    bottom: 80px;
 }
+
+.menu-opcoes li{
+    display: inline-block;
+    margin-left: 15px;
+}
+
 
 .menu-opcoes a {
     color: #003366;
