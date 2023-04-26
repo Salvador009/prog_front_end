@@ -63,3 +63,10 @@
    font-size: 15px;
    color: blue;
 }
+
+.menu-opcoes a:hover{
+    color: #007dc6;
+}
+.menu-opcoes a:active{
+    color: red;
+}
